@@ -1,7 +1,6 @@
 # Healthcare-Analytics
 Contents of Repository:
 - Python Notebook file contains project code for Data Exploration, Feature Engineering, and Machine Learning models (Naive Bayes, XGBoost, Neural Networks).
-- PDF Report file contains overview of the project, predicitions and results.
 - Datasets.zip contains both the test and train data used in the project.
 - HTML file is a markdown of the jupyter notebook with alll the outputs to View without python or its IDE.
 
